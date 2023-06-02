@@ -1,2 +1,2 @@
-# qlikview_dashboard_for_medicine_invoids
-Filtering and organizing data from Tribunal de Contas da Paraíba's DataBase and creating a QlikView dashbord to show the data
+# Qlikview Dashboard for Medicine Invoids
+Filter and organize data of public invoids to feed a Qlikview Dashboard focused on analyse medicine invoids in Paraíba. Goal is verify and analyse the spending and quantity per person, per city, per year and per month of medicine products.
